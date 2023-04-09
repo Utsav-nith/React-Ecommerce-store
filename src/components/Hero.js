@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import heroBcg from '../assets/hero-bcg.jpg'
+import heroBcg from '../assets/hero.jpg'
 const Hero = () => {
   return (
     <Wrapper className='section-center'>
