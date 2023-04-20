@@ -1,6 +1,7 @@
 # React-Ecommerce-store
 Live link--- https://eg-store.netlify.app/
 
-#Designed and developed a Responsive React Ecommerce Application.
-#Built front-end with React.js ,Auth0 for authenticating the user and Airtable as database.
-#Integrated the stripe payment gateway and for subscribing the news formspree was added.
+• Built a responsive e-commerce application using React.
+• Utilised Auth0 for user authentication and Airtable as the database.
+• Integrated Stripe payment gateway for secure online payments.
+• Deployed the application to Netlify.
